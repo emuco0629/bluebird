@@ -1,0 +1,5 @@
+{
+  "name": "BlueBird",
+  "description": "A soothing SNS-style app where you share your day with a little blue bird, who reacts and tweets on your behalf, creating a gentle timeline of your life alongside other friendly birds.",
+  "requestFramePermissions": []
+}
